@@ -1,0 +1,112 @@
+{
+  "brands": [
+    {
+      "name": "Dongfeng",
+      "models": [
+        {
+          "title": "Box E2",
+          "href": "dongfeng/box-e2.html",
+          "image": "framerusercontent.com/images/kw3eAXOd5B3IR655HZGrsRt5I.jpg",
+          "features": [
+            "3 Driving Modes",
+            "Charging Station Installed by Us",
+            "Zero Emissions, 100% Electric",
+            "Smart & Simple Interior",
+            "Proven Durability"
+          ]
+        },
+        {
+          "title": "Box E3",
+          "href": "dongfeng/box-e3.html",
+          "image": "framerusercontent.com/images/NMqfWzDAEJaptTZTUAd0hPnmoMY.jpg",
+          "badge": "Popular",
+          "features": [
+            "ADAS Driving System",
+            "Charging Station Installed by Us",
+            "Zero Emissions, 100% Electric",
+            "Smart & Simple Interior",
+            "Proven Durability"
+          ]
+        },
+        {
+          "title": "EPI 007",
+          "href": "epi/007.html",
+          "image": "framerusercontent.com/images/fNO1MQmYltVXnY3eENSFhvGNEMQ.jpg",
+          "features": [
+            "Sleek Sportback Styling",
+            "Performance You Can Feel",
+            "Extended Range EV",
+            "Tech-Driven Interior",
+            "Engineered by Dongfeng's EPI Series"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ridarra",
+      "models": [
+        {
+          "title": "RD6 4WD",
+          "href": "ridarra4wd/rd6-2wd.html",
+          "image": "framerusercontent.com/images/lCZJbWX6IG8yiEKDmn40MMXUru4.jpg",
+          "features": [
+            "4 Wheel Drive",
+            "Bold Pickup Styling",
+            "Smart Cockpit Experience",
+            "All-Terrain Capability",
+            "Long Electric Range"
+          ]
+        },
+        {
+          "title": "RD6 2WD",
+          "href": "ridarra2wd/rd6-2wd.html",
+          "image": "framerusercontent.com/images/VoP79nw4ZI5tXhEgWSbN1ZgVSiQ.png",
+          "badge": "Popular",
+          "features": [
+            "2 Wheel Drive",
+            "Bold Pickup Styling",
+            "Smart Cockpit Experience",
+            "All-Terrain Capability",
+            "Long Electric Range"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Geely",
+      "models": [
+        {
+          "title": "Geely EX5",
+          "href": "geely/geelyex5.html",
+          "image": "framerusercontent.com/images/xbVTF3s5U8K1YwWRj8n3Vmu2s.jpg",
+          "badge": "Popular",
+          "features": [
+            "Urban-Ready Design",
+            "Connected Features",
+            "Efficient Power Use",
+            "Premium Feel Inside",
+            "Trusted Geely Engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Forthing Friday",
+      "models": [
+        {
+          "title": "Forthing Friday",
+          "href": "forthingfriday/forthingfriday.html",
+          "image": "framerusercontent.com/images/xlI83MQrNn1fTqMqcoolpuA5EQ.webp",
+          "badge": "Popular",
+          "features": [
+            "Spacious & Family-Friendly",
+            "Smart Control Features",
+            "Sleek Modern Styling",
+            "Excellent Range & Comfort",
+            "Versatile Daily Driver"
+          ]
+        }
+      ]
+    }
+  ]
+}

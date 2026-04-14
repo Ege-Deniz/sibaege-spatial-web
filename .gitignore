@@ -1,0 +1,7 @@
+.DS_Store
+.playwright-cli/
+output/playwright/
+hts-cache/
+hts-log.txt
+docs/ai-memory.md
+docs/linkedin-post.md
